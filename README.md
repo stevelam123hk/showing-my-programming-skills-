@@ -5,7 +5,7 @@ I was once a business analyst, and I still love to work in the business team. Be
 
 This repository is to show what I have learned in this few months.   
 
-The Ipython notebooks I have uploaded:  
+The IPython notebooks I have uploaded:  
 
 1. Practice-Data-Wrangling 
    - This practice is about how to clean the raw data by replacing the missing values by mean or most frequent value; also we can delete the whole rows or columns too many data are missing.
